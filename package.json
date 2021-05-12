@@ -49,7 +49,7 @@
     "babel-polyfill": "^6.26.0",
     "babel-runtime": "^6.26.0",
     "loadsh": "^0.0.4",
-    "swiper": "^4.5.0"
+    "swiper": "^6.5.1"
   },
   "browserslist": [
     "last 10 version"
